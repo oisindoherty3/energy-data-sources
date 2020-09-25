@@ -96,6 +96,7 @@ Valuation Office Data
 - __Note:__ Can apply benchmarks to these floor areas to estimate commercial building energy usage
 - https://opendata.valoff.ie/api/
 
+
 ---
 
 Geodata
@@ -111,7 +112,10 @@ Shane McGuinness' (of Trinity College) Dublin Postcodes Geometries
 Contains mappable geometries for all Dublin Postcodes.
  - https://github.com/rdmolony/dublin-postcode-shapefiles) 
 
-
+UCD Spatial Data & Other Datasets for Ireland
+------------------------------------------------------------------
+Contains a wide variety of GIS files for desired applications filtered accordingly
+  - https://libguides.ucd.ie/gisguide/FindSpatialData
 ---
 
 Benchmarks
