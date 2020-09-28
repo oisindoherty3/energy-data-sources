@@ -114,7 +114,7 @@ Contains mappable geometries for all Dublin Postcodes.
 
 UCD Spatial Data & Other Datasets for Ireland
 ------------------------------------------------------------------
-Contains a wide variety of GIS files for desired applications filtered accordingly
+Contains a wide category of GIS files for desired applications filtered accordingly
   - https://libguides.ucd.ie/gisguide/FindSpatialData
 ---
 
